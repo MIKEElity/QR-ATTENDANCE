@@ -1,0 +1,44 @@
+ERROR - 2022-11-12 14:09:23 --> Error connecting to the database: Unknown database 'crud'
+CRITICAL - 2022-11-12 14:09:23 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'crud'
+#0 C:\xampp\htdocs\crud\api\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\crud\api\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\crud\api\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\crud\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\xampp\htdocs\crud\api\app\Controllers\Products.php(24): CodeIgniter\BaseModel->findAll()
+#5 C:\xampp\htdocs\crud\api\system\CodeIgniter.php(832): App\Controllers\Products->index()
+#6 C:\xampp\htdocs\crud\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#7 C:\xampp\htdocs\crud\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\crud\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-11-12 14:10:04 --> Error connecting to the database: Unknown database 'crud'
+CRITICAL - 2022-11-12 14:10:04 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'crud'
+#0 C:\xampp\htdocs\crud\api\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\crud\api\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\crud\api\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\crud\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\xampp\htdocs\crud\api\app\Controllers\Products.php(24): CodeIgniter\BaseModel->findAll()
+#5 C:\xampp\htdocs\crud\api\system\CodeIgniter.php(832): App\Controllers\Products->index()
+#6 C:\xampp\htdocs\crud\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#7 C:\xampp\htdocs\crud\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\crud\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-11-12 14:44:21 --> There is no data to insert.
+#0 C:\xampp\htdocs\crud\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\crud\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\crud\api\app\Controllers\Categories.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\crud\api\system\CodeIgniter.php(832): App\Controllers\Categories->create()
+#4 C:\xampp\htdocs\crud\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categories))
+#5 C:\xampp\htdocs\crud\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\crud\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-11-12 14:45:20 --> There is no data to insert.
+#0 C:\xampp\htdocs\crud\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\crud\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\crud\api\app\Controllers\Categories.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\crud\api\system\CodeIgniter.php(832): App\Controllers\Categories->create()
+#4 C:\xampp\htdocs\crud\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categories))
+#5 C:\xampp\htdocs\crud\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\crud\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

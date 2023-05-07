@@ -1,0 +1,191 @@
+CRITICAL - 2022-12-01 12:19:17 --> There is no data to insert.
+#0 C:\xampp\htdocs\grades\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grades\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grades\api\app\Controllers\Grades.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(832): App\Controllers\Grades->create()
+#4 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Grades))
+#5 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grades\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-01 12:19:17 --> There is no data to insert.
+#0 C:\xampp\htdocs\grades\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grades\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grades\api\app\Controllers\Grades.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(832): App\Controllers\Grades->create()
+#4 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Grades))
+#5 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grades\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-01 12:19:18 --> There is no data to insert.
+#0 C:\xampp\htdocs\grades\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grades\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grades\api\app\Controllers\Grades.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(832): App\Controllers\Grades->create()
+#4 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Grades))
+#5 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grades\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-01 12:19:18 --> There is no data to insert.
+#0 C:\xampp\htdocs\grades\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grades\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grades\api\app\Controllers\Grades.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(832): App\Controllers\Grades->create()
+#4 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Grades))
+#5 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grades\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-01 12:19:18 --> There is no data to insert.
+#0 C:\xampp\htdocs\grades\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grades\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grades\api\app\Controllers\Grades.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(832): App\Controllers\Grades->create()
+#4 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Grades))
+#5 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grades\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-01 12:19:18 --> There is no data to insert.
+#0 C:\xampp\htdocs\grades\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grades\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grades\api\app\Controllers\Grades.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(832): App\Controllers\Grades->create()
+#4 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Grades))
+#5 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grades\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-01 12:38:04 --> There is no data to insert.
+#0 C:\xampp\htdocs\grades\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grades\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grades\api\app\Controllers\Grades.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(832): App\Controllers\Grades->create()
+#4 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Grades))
+#5 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grades\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-01 12:38:04 --> There is no data to insert.
+#0 C:\xampp\htdocs\grades\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grades\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grades\api\app\Controllers\Grades.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(832): App\Controllers\Grades->create()
+#4 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Grades))
+#5 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grades\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-01 12:38:04 --> There is no data to insert.
+#0 C:\xampp\htdocs\grades\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grades\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grades\api\app\Controllers\Grades.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(832): App\Controllers\Grades->create()
+#4 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Grades))
+#5 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grades\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-01 12:39:39 --> There is no data to insert.
+#0 C:\xampp\htdocs\grades\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grades\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grades\api\app\Controllers\Grades.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(832): App\Controllers\Grades->create()
+#4 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Grades))
+#5 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grades\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-01 12:39:39 --> There is no data to insert.
+#0 C:\xampp\htdocs\grades\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grades\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grades\api\app\Controllers\Grades.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(832): App\Controllers\Grades->create()
+#4 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Grades))
+#5 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grades\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-01 12:39:40 --> There is no data to insert.
+#0 C:\xampp\htdocs\grades\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grades\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grades\api\app\Controllers\Grades.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(832): App\Controllers\Grades->create()
+#4 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Grades))
+#5 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grades\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-01 12:39:40 --> There is no data to insert.
+#0 C:\xampp\htdocs\grades\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grades\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grades\api\app\Controllers\Grades.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(832): App\Controllers\Grades->create()
+#4 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Grades))
+#5 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grades\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-01 12:39:40 --> There is no data to insert.
+#0 C:\xampp\htdocs\grades\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grades\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grades\api\app\Controllers\Grades.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(832): App\Controllers\Grades->create()
+#4 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Grades))
+#5 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grades\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-01 12:49:15 --> There is no data to insert.
+#0 C:\xampp\htdocs\grades\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grades\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grades\api\app\Controllers\Grades.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(832): App\Controllers\Grades->create()
+#4 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Grades))
+#5 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grades\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-01 12:52:39 --> There is no data to insert.
+#0 C:\xampp\htdocs\grades\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grades\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grades\api\app\Controllers\Grades.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(832): App\Controllers\Grades->create()
+#4 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Grades))
+#5 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grades\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-01 12:52:40 --> There is no data to insert.
+#0 C:\xampp\htdocs\grades\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grades\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grades\api\app\Controllers\Grades.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(832): App\Controllers\Grades->create()
+#4 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Grades))
+#5 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grades\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-01 12:52:40 --> There is no data to insert.
+#0 C:\xampp\htdocs\grades\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grades\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grades\api\app\Controllers\Grades.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(832): App\Controllers\Grades->create()
+#4 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Grades))
+#5 C:\xampp\htdocs\grades\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grades\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-01 17:38:56 --> There is no data to insert.
+#0 C:\xampp\htdocs\salary\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\salary\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\salary\api\app\Controllers\salary.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\salary\api\system\CodeIgniter.php(832): App\Controllers\salary->create()
+#4 C:\xampp\htdocs\salary\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\salary))
+#5 C:\xampp\htdocs\salary\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\salary\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-01 19:18:28 --> There is no data to insert.
+#0 C:\xampp\htdocs\salary\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\salary\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\salary\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\salary\api\app\Controllers\salary.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\salary\api\system\CodeIgniter.php(832): App\Controllers\salary->create()
+#5 C:\xampp\htdocs\salary\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\salary))
+#6 C:\xampp\htdocs\salary\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\salary\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-01 19:18:29 --> There is no data to insert.
+#0 C:\xampp\htdocs\salary\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\salary\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\salary\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\salary\api\app\Controllers\salary.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\salary\api\system\CodeIgniter.php(832): App\Controllers\salary->create()
+#5 C:\xampp\htdocs\salary\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\salary))
+#6 C:\xampp\htdocs\salary\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\salary\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

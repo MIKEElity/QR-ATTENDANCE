@@ -1,0 +1,910 @@
+CRITICAL - 2022-12-15 11:15:39 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:15:40 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:15:42 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:15:42 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:15:42 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:16:58 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:18:40 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:18:41 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:18:41 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:18:41 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:18:42 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:18:42 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:18:42 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:18:42 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:18:43 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:18:43 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:18:43 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:18:43 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:18:43 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:18:43 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:18:44 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:18:44 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:18:44 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:18:44 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:26:03 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:26:05 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:26:06 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:26:06 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:26:07 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:26:07 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:26:07 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:29:11 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:34:07 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:34:09 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:34:10 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:34:10 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:34:11 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:34:11 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:34:11 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:34:11 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:34:11 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:34:11 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:34:11 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 11:34:12 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:08:26 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:08:27 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:08:27 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:08:28 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:08:28 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:08:30 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:08:30 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:08:30 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:08:32 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:08:32 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:08:33 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:08:33 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:08:33 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:08:49 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:08:50 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:09:07 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:09:07 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:11:57 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:17:36 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:17:59 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:18:00 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:18:01 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:18:01 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:18:25 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:18:26 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:24:18 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:33:40 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:33:42 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:36:28 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:37:05 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:37:05 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:37:05 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:37:05 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:37:06 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:37:06 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:37:06 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:37:06 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:37:06 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:37:06 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:37:07 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:37:07 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:37:07 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:37:07 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 13:48:27 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 22:04:03 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 22:04:04 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-15 23:42:09 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\xampp\htdocs\interest\api\app\Controllers\interest.php(55): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\interest->create()
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\interest))
+#6 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

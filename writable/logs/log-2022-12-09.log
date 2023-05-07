@@ -1,0 +1,93 @@
+ERROR - 2022-12-09 22:02:43 --> Table 'interest.salary' doesn't exist
+CRITICAL - 2022-12-09 22:02:43 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\interest\api\app\Controllers\salary.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\salary->index()
+#3 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\salary))
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-12-09 22:02:47 --> Table 'interest.salary' doesn't exist
+ERROR - 2022-12-09 22:02:47 --> Table 'interest.salary' doesn't exist
+CRITICAL - 2022-12-09 22:02:47 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\interest\api\app\Controllers\salary.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\salary->index()
+#3 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\salary))
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-12-09 22:03:13 --> Table 'interest.salary' doesn't exist
+ERROR - 2022-12-09 22:03:13 --> Table 'interest.salary' doesn't exist
+CRITICAL - 2022-12-09 22:03:13 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\interest\api\app\Controllers\salary.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\salary->index()
+#3 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\salary))
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-12-09 22:03:32 --> Table 'interest.salary' doesn't exist
+ERROR - 2022-12-09 22:03:32 --> Table 'interest.salary' doesn't exist
+CRITICAL - 2022-12-09 22:03:32 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\interest\api\app\Controllers\salary.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\salary->index()
+#3 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\salary))
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-12-09 22:04:13 --> Table 'interest.salary' doesn't exist
+CRITICAL - 2022-12-09 22:04:13 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\interest\api\app\Controllers\salary.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\salary->index()
+#3 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\salary))
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-12-09 22:04:31 --> Table 'interest.salary' doesn't exist
+CRITICAL - 2022-12-09 22:04:31 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\interest\api\app\Controllers\salary.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\salary->index()
+#3 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\salary))
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-12-09 22:04:40 --> Table 'interest.salary' doesn't exist
+CRITICAL - 2022-12-09 22:04:40 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\interest\api\app\Controllers\salary.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\salary->index()
+#3 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\salary))
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-12-09 22:06:09 --> Table 'interest.salary' doesn't exist
+CRITICAL - 2022-12-09 22:06:09 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\interest\api\app\Controllers\salary.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\salary->index()
+#3 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\salary))
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-12-09 22:07:29 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\interest\api\app\Controllers\salary.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\salary->create()
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\salary))
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-09 22:08:29 --> There is no data to insert.
+#0 C:\xampp\htdocs\interest\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\interest\api\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\interest\api\app\Controllers\salary.php(55): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(832): App\Controllers\salary->create()
+#4 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\salary))
+#5 C:\xampp\htdocs\interest\api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\interest\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
